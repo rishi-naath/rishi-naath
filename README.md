@@ -46,7 +46,7 @@
 <h2>Contact me via:
   <img src="https://media1.tenor.com/m/ATWaFD88wcMAAAAC/email-me-about-that-later-let-me-see.gif" width="100" style="vertical-align: middle;"/>
 </h2>
-<p align="center"><a target="_blank" href="https://www.linkedin.com/in/Sanga Rishi Naath" style="display: inline-block;"> 
+<p align="center"><a target="_blank" href="www.linkedin.com/in/sanga-rishi-naath-1b4996274" style="display: inline-block;"> 
   <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
   <a target="_blank" href="http://y2u.be/dQw4w9WgXcQ" style="display: inline-block;"> 
   <img src="https://img.shields.io/badge/youtube%20-%20red?style=for-the-badge&logo=youtube&logoColor=black&color=FF0000"alt="phone" />
