@@ -1,6 +1,8 @@
-<h1 align="center">
+<p align="center"> 
+  <img src="https://s8.ezgif.com/tmp/ezgif-873d036bea4cd813.gif" alt="LLM chill" width="50%" style="float: right; margin-left: 15px;" />
+</p>
+<h1 align ="center">
   Hey there, I'm Sanga Rishi Naath
-  <img src="https://media1.tenor.com/m/eE2OLGiBR-QAAAAd/transitions-kinemaster.gif" alt="LLM chill" width="50" style="float: right; margin-left: 15px;" />
 </h1>
 <h3 align = "center">
   <strong>Currently burrowed with LLM's and trying not to get a screen burn</strong>
