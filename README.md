@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://media1.tenor.com/m/lib332ltzTQAAAAd/suit-black.gif" alt="LLM chill" width="50%" style="float: right; margin-left: 15px;" />
+  <img src="https://github.com/rishi-naath/rishi-naath/blob/main/assets/ezgif.com-resize.gif" alt="LLM chill" width="50%" style="float: right; margin-left: 15px;" />
 </p>
 <h1 align ="center">
   Hey there, I'm Sanga Rishi Naath
