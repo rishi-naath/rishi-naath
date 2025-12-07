@@ -10,15 +10,15 @@
 </h3>
 
 
-<h1 align = "left"> 
+<!--<h1 align = "left"> 
   Stats: 
   <img src="https://media1.tenor.com/m/Y8Po-y0pXQ8AAAAd/stonks-meme.gif" alt="LLM chill" width="100" style="float: right; margin-left: 15px;" />
 </h1>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+ <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://i.imgflip.com/7e0p3j.png" alt="LLM chill" width="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishi-naath&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" width="400" />
-</div>
+</div> -->
 
 
 ###
